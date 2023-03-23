@@ -80,7 +80,7 @@
 						</goals>
 						<configuration>
 							<nodeVersion>v18.12.1</nodeVersion> <!-- 설치할 nodeJs 의 버전 -->
-							<npmVersion>8.19.2</npmVersion>  <!-- 설치할 npm 의 버전 -->
+							<npmVersion>3.10.8</npmVersion>  <!-- 설치할 npm 의 버전 -->
 						</configuration>
 					</execution>
 					<execution>
